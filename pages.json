@@ -1,0 +1,281 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "主页"
+			}
+		},
+		{
+			"path": "pages/read/read",
+			"style": {
+				"navigationBarTitleText": "阅读中心"
+			}
+		},
+		{
+			"path": "pages/auth/index",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/message/index",
+			"style": {
+				"navigationBarTitleText": "更新日志"
+			}
+		}, {
+			"path": "pages/feed/index",
+			"style": {
+				"navigationBarTitleText": "反馈"
+			}
+		},
+		{
+			"path": "pages/withme/index",
+			"style": {
+				"navigationBarTitleText": "联系我们"
+			}
+		},
+		{
+			"path": "pages/about/about",
+			"style": {
+				"navigationBarTitleText": "关于",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/analysis/analysis",
+			"style": {
+				"navigationBarTitleText": "难句分析"
+			}
+		},
+		{
+			"path": "pages/vocabulary/vocabulary",
+			"style": {
+				"navigationBarTitleText": "词汇训练"
+			}
+		},
+		{
+			"path": "pages/composition/composition",
+			"style": {
+				"navigationBarTitleText": "作文"
+			}
+		},
+		{
+			"path": "pages/analysisChildNode/analysisOne",
+			"style": {
+				"navigationBarTitleText": "难句分析一"
+			}
+		},
+		{
+			"path": "pages/analysisChildNode/analysisTwo",
+			"style": {
+				"navigationBarTitleText": "难句分析二"
+			}
+		},
+		{
+			"path": "pages/analysisChildNode/analysisThree",
+			"style": {
+				"navigationBarTitleText": "难句分析三"
+			}
+		},
+		{
+			"path": "pages/analysisChildNode/analysisFour",
+			"style": {
+				"navigationBarTitleText": "难句分析四"
+			}
+		},
+		{
+			"path": "pages/analysisChildNode/analysisFive",
+			"style": {
+				"navigationBarTitleText": "难句分析五"
+			}
+		},
+		{
+			"path": "pages/analysisChildNode/analysisSix",
+			"style": {
+				"navigationBarTitleText": "难句分析六"
+			}
+		},
+		{
+			"path": "pages/analysisChildNode/analysisSeven",
+			"style": {
+				"navigationBarTitleText": "难句分析七"
+			}
+		},
+		{
+			"path": "pages/analysisChildNode/analysisEight",
+			"style": {
+				"navigationBarTitleText": "难句分析八"
+			}
+		},
+		{
+			"path": "pages/compositionChildNode/compositionOne",
+			"style": {
+				"navigationBarTitleText": "道歉信"
+			}
+		},
+		{
+			"path": "pages/compositionChildNode/compositionTwo",
+			"style": {
+				"navigationBarTitleText": "建议信"
+			}
+		},
+		{
+			"path": "pages/compositionChildNode/compositionThree",
+			"style": {
+				"navigationBarTitleText": "求职信"
+			}
+		},
+		{
+			"path": "pages/compositionChildNode/compositionFour",
+			"style": {
+				"navigationBarTitleText": "投诉信"
+			}
+		},
+		{
+			"path": "pages/compositionChildNode/compositionFive",
+			"style": {
+				"navigationBarTitleText": "邀请信"
+			}
+		},
+		{
+			"path": "pages/compositionChildNode/compositionSix",
+			"style": {
+				"navigationBarTitleText": "申请信"
+			}
+		},
+		{
+			"path": "pages/compositionChildNode/compositionSeven",
+			"style": {
+				"navigationBarTitleText": "慰问信"
+			}
+		},
+		{
+			"path": "pages/compositionChildNode/compositionEight",
+			"style": {
+				"navigationBarTitleText": "备忘录"
+			}
+		},
+		{
+			"path": "pages/studyData/studyData",
+			"style": {
+				"navigationBarTitleText": "学习数据"
+			}
+		},
+		{
+			"path": "pages/readContent/readOne",
+			"style": {
+				"navigationBarTitleText": "大学生如何规划英语学习"
+			}
+		},
+		{
+			"path": "pages/readContent/readTwo",
+			"style": {
+				"navigationBarTitleText": "英语学习的唯一正确方法"
+			}
+		},
+		{
+			"path": "pages/readContent/readThree",
+			"style": {
+				"navigationBarTitleText": "如何说一口流利的英语"
+			}
+		},
+		{
+			"path": "pages/skill/skill",
+			"style": {
+				"navigationBarTitleText": "答题技巧"
+			}
+		},
+		{
+			"path": "pages/skillContent/skillOne",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/skillContent/skillTwo",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/dagang/dagang",
+			"style": {
+				"navigationBarTitleText": "考研英语大纲"
+			}
+		},
+		{
+			"path": "pages/dagangContent/englishOne",
+			"style": {
+				"navigationBarTitleText": "考研英语大纲"
+			}
+		},
+		{
+			"path": "pages/dagangContent/englishTwo",
+			"style": {
+				"navigationBarTitleText": "考研英语大纲"
+			}
+		},
+		{
+			"path": "pages/zhenti/zhenti",
+			"style": {
+				"navigationBarTitleText": "真题"
+			}
+		},
+		{
+			"path": "pages/zhentiContent/zhentiContentOne",
+			"style": {
+				"navigationBarTitleText": "真题"
+			}
+		},
+		{
+			"path": "pages/zhentiContent/zhentiContentTwo",
+			"style": {
+				"navigationBarTitleText": "真题"
+			}
+		},
+		{
+			"path": "pages/play/play",
+			"style": {
+				"navigationBarTitleText": "计划"
+
+			}
+
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#ededed",
+		"backgroundColor": "#F8F8F8"
+		/* 		"enablePullDownRefresh": true */
+	},
+
+	"tabBar": {
+		"list": [{
+				"text": "首页",
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabBar-icon/index.png",
+				"selectedIconPath": "static/tabBar-icon/selected/index.png"
+			}, {
+				"text": "阅读中心",
+				"pagePath": "pages/read/read",
+				"iconPath": "static/tabBar-icon/read.png",
+				"selectedIconPath": "static/tabBar-icon/selected/read.png"
+			},
+			{
+				"text": "关于",
+				"pagePath": "pages/about/about",
+				"iconPath": "static/tabBar-icon/about.png",
+				"selectedIconPath": "static/tabBar-icon/selected/about.png"
+
+			}
+		]
+	},
+	"usingComponents": {},
+	"lazyCodeLoading": "requiredComponents",
+	"app-plus": {
+		"softinputMode": "adjustResize"
+	}
+
+}
